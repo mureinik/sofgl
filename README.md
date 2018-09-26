@@ -3,8 +3,8 @@
 
 **Happy Braging**
 
-### Introduction:-  
-_SOFGL is a hack which allows you to show your StackOverflow flair on linkedin like you see in [this](https://www.linkedin.com/in/vipul-bhardwaj-172a50145/) profiles media_.
+### Introduction:-     
+Trying to show your StackOverflow flair on Linkedin or adding your profile is a pain as there is no official way to do it. [Methods](https://meta.stackexchange.com/questions/287095/how-to-show-my-stack-exchange-flair-on-linkedin) which appear in StackOverflow answers are overly complicated. So I created _SOFGL is a hack which allows you to show your StackOverflow flair on linkedin like you see in [this](https://www.linkedin.com/in/vipul-bhardwaj-172a50145/) profiles media_.
 
 ### How to do it:-  
 Step 1:- Fork or clone this repo.     
