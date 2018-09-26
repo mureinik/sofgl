@@ -1,6 +1,8 @@
 # sofgl.github.io
 ##### SOFGL - StackOverFlow Flair Generator for Linkedin.   
 
+**Happy Braging**
+
 ### Introduction:-  
 _SOFGL is a hack which allows you to show your StackOverflow flair on linkedin like you see in [this](https://www.linkedin.com/in/vipul-bhardwaj-172a50145/) profiles media_.
 
@@ -27,3 +29,6 @@ I encourage you to experiment more with this.
 **And there you have it,_If you like this hack, do make sure to like it and share it_**                
 
 P.S :- Instead of using any thumbnail service you can make your own. If you are using JS, then check out Phantom.js which is a good starting point for this.
+
+
+**Happy Braging**
